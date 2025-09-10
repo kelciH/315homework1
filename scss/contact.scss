@@ -1,0 +1,16 @@
+.imgHolderC {
+    height: 500px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    
+    .imgCon {
+        height: 500px;
+        width: 100%;
+        background-image: url(../images/pexels-tatiana-fet-420381-1105766.jpg);
+        background-position: top;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+}
