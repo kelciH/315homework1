@@ -46,8 +46,8 @@ footer p {
 .imgHolder .img {
   height: 500px;
   width: 100%;
-  background-image: url(../images/pexels-jan-kroon-357445-1038935.jpg);
-  background-position: center;
+  background-image: url(../images/pexels-tatiana-fet-420381-1105766.jpg);
+  background-position: top;
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -81,8 +81,8 @@ p {
 .imgHolderA .imgAbout {
   height: 500px;
   width: 100%;
-  background-image: url(../images/pexels-hiddencouple-3048527.jpg);
-  background-position: bottom;
+  background-image: url(../images/pexels-mikebirdy-114820.jpg);
+  background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -97,8 +97,8 @@ p {
 .imgHolderP .imgPro {
   height: 500px;
   width: 100%;
-  background-image: url(../images/pexels-pamanjoe-17074948.jpg);
-  background-position: top;
+  background-image: url(../images/pexels-pixabay-355747.jpg);
+  background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -118,7 +118,7 @@ a {
 .imgHolderC .imgCon {
   height: 500px;
   width: 100%;
-  background-image: url(../images/pexels-tatiana-fet-420381-1105766.jpg);
+  background-image: url(../images/pexels-pixabay-276374.jpg);
   background-position: top;
   background-repeat: no-repeat;
   background-size: cover;
